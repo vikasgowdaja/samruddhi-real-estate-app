@@ -11,7 +11,6 @@ export interface Property {
   bathrooms: number;
   area: number;
   location: {
-  
     address: string;
     city: string;
     state: string;
